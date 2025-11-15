@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ant clean build:*)",
+      "Bash(javac:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
